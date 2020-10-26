@@ -1,2 +1,2 @@
 # GoldStarr_Trading
-School asignment in OOP1 (Group 5)
+Projektuppgift för kursen OOP1 på Newton. Detta repo gäller för grupp 5.
